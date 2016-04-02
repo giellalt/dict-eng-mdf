@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="eng"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+<e> <lg> <l pos="Pron">I</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">мон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">about (approximately)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">эшка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">all</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сембе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">and that one</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">сияк</t> <t pos="Pron">сявок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">anybody</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кие-бди</t> <t pos="Pron">кигава</t><t pos="Pron">киге</t> <t pos="Pron">кинь-кинь</t><t pos="Pron">киньге</t> <t pos="Pron">кивок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">anything</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кати-мезе</t> <t pos="Pron">кой-мезе</t><t pos="Pron">мезе-бди</t> <t pos="Pron">мезе-мезе</t><t pos="Pron">мезеге</t> <t pos="Pron">мезевок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">anyway</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сяка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">anywhere (from)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">костонга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">at what time</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">конашкада</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">both</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">кафцьке</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">but for that</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сяда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">but for these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">няда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">but for this</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тяда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">compare to that (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сяда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">compare to this</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тяда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">compared to these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">няшка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">each</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">эрь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">every</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">эрь</t> <t pos="Pron">эрь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">everybody</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">сембе</t> <t pos="Pron">эрь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">everyone</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сембе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">everything</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сембе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for her</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">сондеенза</t> <t pos="Pron">теенза</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for him</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">сондеенза</t> <t pos="Pron">теенза</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for me</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">мондейне</t> <t pos="Pron">тейне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for that (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сянди</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for the sake of these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">нянкса</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for them</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">синьдеезост</t> <t pos="Pron">теезост</t> <t pos="Pron">теест</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">нянди</t> <t pos="Pron">нятненди</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for this</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тянди</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for those (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сятненди</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for us</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">миндейнек</t> <t pos="Pron">миндеезонк</t><t pos="Pron">тейнек</t> <t pos="Pron">теезонк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">for you</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">синдеест</t> <t pos="Pron">тейнть</t> <t pos="Pron">тиндейнть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">from somewhere or other</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">костонга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">he</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">her</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">here</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">вага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">him</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">himself</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">эсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">his</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">how many</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">мзяра</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">how much</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">конашкаста</t> <t pos="Pron">мзяра</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">it</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">itself</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">эсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">maybe</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">кати</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">me</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">монь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">mine</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">монь</t> <t pos="Pron">моннетне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">my</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">монь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">my own</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">монцень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">myself)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">эсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">neither</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кигава</t> <t pos="Pron">киге</t><t pos="Pron">кинь-кинь</t> <t pos="Pron">кивок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">never</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">костонга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">nobody</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кигава</t> <t pos="Pron">киге</t><t pos="Pron">кинь-кинь</t> <t pos="Pron">киньге</t> <t pos="Pron">кивок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">nothing</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">мезе-мезе</t> <t pos="Pron">мезеге</t> <t pos="Pron">мезевок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">of that (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">of these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">нянь</t> <t pos="Pron">нятнень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">of this</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тянь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">of those (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сятнень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">oneself</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">эсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">only that</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сяканя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">only these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">няконя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">only this</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тяконя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">onto that side</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">томбали</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">other</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">иля</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">our</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">минь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">our own</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">минцень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ourselves</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">минць</t> <t pos="Pron">минцень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">perhaps</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">кати</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">pl</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">моннетне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">same these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">няка</t> <t pos="Pron">някотне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">same this</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">тите</t> <t pos="Pron">тяка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">same this (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сяка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">same those (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сякот</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">self (herself</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">эсь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">she</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">so much</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">конашкаста</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">somebody</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кати-кие</t> <t pos="Pron">кие-бди</t><t pos="Pron">киньге</t> <t pos="Pron">кой-кона</t> <t pos="Pron">кона-бди</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">something</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кати-мезе</t> <t pos="Pron">мезе-бди</t><t pos="Pron">мезе-мезе</t> <t pos="Pron">мезеге</t> <t pos="Pron">мезевок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">such</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">стама</t> <t pos="Pron">тяфтама</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">that</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">конац</t> <t pos="Pron">сице</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">that (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">гайся</t> <t pos="Pron">ся</t> <t pos="Pron">ся</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">that (very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">нона</t> <t pos="Pron">тона</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">thee</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">тейть</t> <t pos="Pron">тондейть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">their</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">синь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">their own</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">синцень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">them</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">синь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">themselves</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">синць</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">there</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">сияк</t> <t pos="Pron">вага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">ня</t> <t pos="Pron">нят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">these (very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">тонат</t> <t pos="Pron">тонатне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">they</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">синь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">this</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">тона</t> <t pos="Pron">тя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">this is</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">ва</t> <t pos="Pron">вага</t> <t pos="Pron">вов</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">this much</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сняра</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">thither</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сияк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">those (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">those (very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">нонат</t> <t pos="Pron">нонатне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">thou</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">thyself</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тонць</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to anybody</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">киндиге</t> <t pos="Pron">киндивок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to both</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">кафцьконди</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to her</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">сондеенза</t> <t pos="Pron">теенза</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to him</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">сондеенза</t> <t pos="Pron">теенза</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to me</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">мондейне</t> <t pos="Pron">тейне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to nobody</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">киндиге</t> <t pos="Pron">киндивок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to that place (near you)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сияк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to them</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">синьдеезост</t> <t pos="Pron">теезост</t> <t pos="Pron">теест</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to us</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">миндейнек</t> <t pos="Pron">миндеезонк</t><t pos="Pron">тейнек</t> <t pos="Pron">теезонк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">to you</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">синдеест</t> <t pos="Pron">тейнть</t> <t pos="Pron">тиндейнть</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">us</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">минь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">we</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">минь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">what</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кона</t> <t pos="Pron">конашка</t> <t pos="Pron">мезе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">what (a ..)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">мезень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">what (number)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">мзяроце</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">what for</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">мезенди</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">what kind of</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">кодама</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">what sort of</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">конашка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">whatever</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кона-кона</t> <t pos="Pron">конага</t><t pos="Pron">конавок</t> <t pos="Pron">мезе-мезе</t><t pos="Pron">мезеге</t> <t pos="Pron">мезевок</t> <t pos="Pron">эрьва мезе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">when ever</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">конашкада</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">where from (origin)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">костонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">which</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кона</t> <t pos="Pron">конац</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">whichever</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кона-кона</t> <t pos="Pron">конага</t> <t pos="Pron">конавок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">who</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кие</t> <t pos="Pron">кона</t> <t pos="Pron">конац</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">whoever</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pron">кигава</t> <t pos="Pron">киге</t><t pos="Pron">кинь-кинь</t> <t pos="Pron">кивок</t><t pos="Pron">кона-кона</t> <t pos="Pron">конага</t> <t pos="Pron">конавок</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">whole</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сембе</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">whom (to)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">кинди</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">whose</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">кинь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">without</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">сяфтама</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">without these (not very far)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">няфтома</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">you</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">you (formal address)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тинь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">you (several)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тинь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">your (several)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тинь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">your own</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тинцень</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">yourselves</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pron">тинць</t> </tg> </mg> </e>
+</r>

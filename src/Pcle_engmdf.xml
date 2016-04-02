@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="eng"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+<e> <lg> <l pos="Pcle">already</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">ни</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">also</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">among</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">ётка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">as if</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">дяряй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">as soon as</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">кoдак</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">as yet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">between</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">ётка</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">come on! (to many)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">экода</t> <t pos="Pcle">яда!</t><t pos="Pcle">эрьда!</t> <t pos="Pcle">эрьдова!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">come on! (to one)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">эка</t> <t pos="Pcle">я!</t><t pos="Pcle">эрь!</t> <t pos="Pcle">эрька!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">don't (to many)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">тяда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">don't (to one)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">тят</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">don't even</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">тятле</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">else</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">even</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">мяк</t> <t pos="Pcle">нльне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">ever</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">мле</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">from rumors</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">афоли</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">here</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">вага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">heretofore</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">hitherto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">indeed</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">мяк</t> <t pos="Pcle">нльне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">just</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">клёк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">let</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">катк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">let's go!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">аде!</t> <t pos="Pcle">аре!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">longer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">may</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">катк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">most</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">инь</t> <t pos="Pcle">клёк</t><t pos="Pcle">самай</t> <t pos="Pcle">сембода</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">nay</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">мяк</t> <t pos="Pcle">нльне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">neither</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">афле</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">no</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">афи</t> <t pos="Pcle">альдезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">nor</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">афи</t> <t pos="Pcle">афле</t> <t pos="Pcle">альдезь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">not</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">аф</t> <t pos="Pcle">афи</t><t pos="Pcle">альдезь</t> <t pos="Pcle">дель</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">not even</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">афи</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">now</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">now then! (to one)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">янга!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">of all</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">эй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">on earth</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">мле</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">only</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">аньцек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">oughtn't</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">дямаль</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">shouldn't</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">дямаль</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">so</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">стане</t> <t pos="Pcle">тяшкава</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">so far</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">so much</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">стане</t> <t pos="Pcle">тяшкава</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">still</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">the most</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">сембодонга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">there</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">вага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">this</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">тя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">this is</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">вага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">through hearsay</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">афоли</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">thus far</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">thus much</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">стане</t> <t pos="Pcle">тяшкава</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">til now</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">too</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">until now</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">up to now</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">very</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">гърнь</t> <t pos="Pcle">пяк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">very (superlative)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">эй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">very well! agreed! hallo (phone)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">ина</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">yes (response)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Pcle">ина</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pcle">yet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Pcle">ни</t> <t pos="Pcle">нинге</t> </tg> </mg> </e>
+</r>

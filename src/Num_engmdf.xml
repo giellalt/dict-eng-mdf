@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="eng"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+<e> <lg> <l pos="Num">billion</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">миллиард</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">eight</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кафкса</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">eighteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кемгафксува</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">eighty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кафксогемонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">eleven</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кефкие</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">fifteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кеветие</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">five</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">вете</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">four</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">ниле</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">fourteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кемнилие</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">hundred</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">сяда</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">million</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">миллион</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">nineteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кевейхксые</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">one</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">фкя</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seven</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">сисем</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seventeen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кемзисемге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">seventy</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">сизьгемонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">six</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кота</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">sixteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кемготува</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">sixty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кодгемонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">ten</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кемонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">thirteen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кемголмова</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">thirty</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">колмогемонь</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">thousand</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">тёжань</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">three</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">колма</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">twelve</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кемгафтува</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">two</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Num">кафта</t> </tg> </mg> </e>
+</r>

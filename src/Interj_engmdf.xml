@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="eng"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+<e> <lg> <l pos="Interj">Attention ! Get out! Stop!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">Ворьхть!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">May God speed you!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">шангадеза !</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ah</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">а</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">ah !</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">уй!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">alack</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Interj">анивай</t> <t pos="Interj">офай</t><t pos="Interj">охай</t> <t pos="Interj">вайкс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">alas</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Interj">анивай</t> <t pos="Interj">офай</t><t pos="Interj">охай</t> <t pos="Interj">вайкс</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">amen</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">улеза</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">bow-wow</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">каф-каф</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">enough!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">панде!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">farewell</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">абон</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">good</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">лац</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">halt! stop!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">ащек!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hello (to many)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">шумбратада!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hello (to one)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">шумбрат!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hurrah</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">эди!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">hush!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Interj">бавак !</t> <t pos="Interj">кашт!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">look! why! oh</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">ва ни</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">lullaby</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">баву, баву!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">now then! (to many)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">эрь ни!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">of lightning flash</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">кифч</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">oh !</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">вай!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">vulgar interjective</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">абас</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">wait!</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Interj">ожка!</t> <t pos="Interj">ожу!</t> </tg> </mg> </e>
+<e> <lg> <l pos="Interj">well</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Interj">лац</t> </tg> </mg> </e>
+</r>
