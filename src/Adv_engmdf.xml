@@ -802,4 +802,36 @@
 <e> <lg> <l pos="Adv">year before last</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">мана</t> <t pos="Adv">манамба</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">yesterday</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">исяк</t> <t pos="Adv">исякомба</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">yet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">афака</t> <t pos="Adv">мзярс</t> <t pos="Adv">ни</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">already</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">ни</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">also</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">as yet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">else</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">even</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">мяк</t> <t pos="Adv">нльне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">ever</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">мле</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">from rumors</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">афоли</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">here</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">вага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">heretofore</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">hitherto</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">indeed</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">мяк</t> <t pos="Adv">нльне</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">just</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">клёк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">longer</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">most</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">инь</t> <t pos="Adv">клёк</t><t pos="Adv">самай</t> <t pos="Adv">сембода</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">now</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">only</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">аньцек</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">so</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">стане</t> <t pos="Adv">тяшкава</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">so far</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">so much</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">стане</t> <t pos="Adv">тяшкава</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">still</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">the most</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">сембодонга</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">there</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">вага</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">through hearsay</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">афоли</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">thus far</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">thus much</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">стане</t> <t pos="Adv">тяшкава</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">till now</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">too</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">until now</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">up to now</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"> <t pos="Adv">нинге</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">very</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">гърнь</t> <t pos="Adv">пяк</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">very</l> <stg> <st/> </stg> </lg> <mg><defNative>superlative</defNative> <tg xml:lang="mdf"> <t pos="Adv">эй</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">yet</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="mdf"><t pos="Adv">ни</t> <t pos="Adv">нинге</t> </tg> </mg> </e>
 </r>
